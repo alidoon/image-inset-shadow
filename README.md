@@ -34,10 +34,10 @@ use css3
 		-webkit-box-shadow: inset 0 0 80px rgba(0,0,0,.6);
 	   }
 
-.img-shadow img {
-	float: left;
-
-	}
+	.img-shadow img {
+		float: left;
+	
+		}
   
   
   
